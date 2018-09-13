@@ -1,0 +1,8 @@
+﻿1Over the course of my working life I have had the opportunity to use many programming. 
+2concepts and technologies to do countless things. Some of these things involve relatively low value fruits of my labor, 
+3such as automating the error prone or mundane like report generation, 
+4task automation, and general data reformatting. Others have been much more valuable, 
+5such as developing data products, web applications, 
+6and data analysis and processing pipelines. One thing that 
+This is analysis
+How are you?
